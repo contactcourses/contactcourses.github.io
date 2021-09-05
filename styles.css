@@ -1,0 +1,17 @@
+a:link {
+    color: white ;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+.btn {
+      margin: 5px !important;
+      width: 57px;
+  }
+a {
+      color: white !important;
+  }
+
+h1 {
+    margin-left: 10px;
+}
