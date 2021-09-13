@@ -1,0 +1,16 @@
+.div1 {
+    background-image: url('./images/50_Project.png');
+    height: 768px;
+    width: 100% !important;
+}
+.icon {
+    position: relative;
+    top: 20rem;
+    left: 30rem;
+    font-size: 3rem !important;
+}
+.logo_homepage {
+    font-size: 2rem !important;
+    color: orange !important;
+    font-weight: bold;
+}
