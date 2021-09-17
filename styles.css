@@ -1,17 +1,61 @@
-a:link {
-    color: white ;
-    background-color: transparent;
-    text-decoration: none;
-  }
 
-.btn {
-      margin: 5px !important;
-      width: 57px;
-  }
-a {
-      color: white !important;
-  }
-
+#title {
+  background-color: rgb(37, 147, 161);
+}
+#footer {
+  background-color: white;
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+}
+a:link, a:visited {
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 h1 {
-    margin-left: 10px;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 2.7rem !important;
+  line-height: 1.5 !important;
+  color:azure!important;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif !important;
+}
+p {
+  font-size: 1.5rem;
+  font-family: 'Ubuntu', sans-serif !important;
+}
+.container-fluid{
+  height: 600px;
+  width: 100%;
+  padding: 3% 3% !important;
+}
+
+.web-img {
+  width: 700px;
+  height: 300px;
+}
+.navbar {
+  border-radius: 8px;
+}
+
+.row-title {
+  padding: 4.5rem 4rem;
+}
+.img1, .img2 {
+  height: 500px;
+  width: 700px;
+}
+.row1 {
+  text-align: left;
+  padding: 10% 5% 7% 5%;
+  line-height: 2;
+}
+.nav-item {
+  padding: 0 18px ;
+}
+.nav-link {
+  font-family: "Ubuntu";
 }
