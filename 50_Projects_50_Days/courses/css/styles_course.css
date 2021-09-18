@@ -1,0 +1,34 @@
+#page1 {
+    
+}
+.div1 {
+    height: 500px;
+}
+
+body {
+    margin: 0 !important;
+    background-color: #10103A;
+}
+h1 {
+    color: orange;
+    text-align: center;
+    font-size: 3rem;
+}
+h2 {
+    color: rgb(228, 26, 26);
+    margin-left: 15%;
+}
+a {
+    color: greenyellow;
+    margin-left: 16%;
+    text-decoration: none;
+    font-size: 1.5rem !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+.change-ul {
+    list-style-type: none;
+}
